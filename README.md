@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**dyespring/dyespring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data science and machine learning stuff
 - 🌱 I’m currently learning my master degree of data science
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
